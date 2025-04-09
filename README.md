@@ -64,9 +64,7 @@ This project is an Arduino-based automatic water dispenser that uses **ultrasoni
 - Integrate with **IoT platforms** like Blynk or ThingSpeak for remote monitoring.
 
 ## Demo
-![WhatsApp Video 2025-04-09 at 16 31 49](https://github.com/user-attachments/assets/d8902d40-937f-4f33-acfc-a72fd880038a)
-
-
+![WhatsApp Video 2025-04-09 at 16 31 49](https://github.com/user-attachments/assets/c6c9e1bb-c8a0-4ea2-a50d-93c2fe474c2a)
 
 ## License
 
