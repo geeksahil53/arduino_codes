@@ -65,6 +65,7 @@ This project is an Arduino-based automatic water dispenser that uses **ultrasoni
 
 ## Demo
 ![WhatsApp Video 2025-04-09 at 16 31 49](https://github.com/user-attachments/assets/c6c9e1bb-c8a0-4ea2-a50d-93c2fe474c2a)
+![WhatsApp Image 2025-04-09 at 16 31 42](https://github.com/user-attachments/assets/8a467018-1d15-4979-b23c-b738edb03a68)
 
 ## License
 
